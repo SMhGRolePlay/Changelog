@@ -1,1 +1,14 @@
-# Changelog
+- Added in bowling
+- New Character Select
+- New Location selector
+- Border Control for newcomers
+- Ability to be knocked out
+- Ability for police to search and check status through 3rd eye
+- Put and remove people from cars through 3rd eye
+- Small Third-Eye Changes
+- Small Visual Changes
+- Added in new Jewelry heist
+- Added in USB peds for bank robberies
+- Added in New trucking with the ability of passive income
+-Drug spots will be moved
+-Jobs/Businesses may be moved around
